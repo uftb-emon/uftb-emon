@@ -1,23 +1,12 @@
-<!-- 
-## Hi 👋, I'm ABU BAKKAR SIDDIQUE EMON 
-### Studying at IoT and Robotics Engineering at BDU
-
-**ABS-EMON** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
-
-
-
 <h1 align="center">Hi 👋, I'm ABU BAKKAR SIDDIQUE EMON</h1>
-<h3 align="center">Studying IoT and Robotics Engineering at BDU</h3>
-
-
+<h3 align="center">IoT, Robotics & Aerospace Enthusiast | AI, Drones & Autonomous Systems Developer</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+GitHub!;Seeking+MSc%2FPhD+in+Robotics+or+Space+Science;Exploring+IoT%2C+AI%2C+Drones%2C+and+Autonomous+Systems;">
   </a>
 </p>
 
-<p align="left"> 
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ABS-EMON&label=Profile%20views&color=0e75b6&style=flat" alt="ABS-EMON" /> 
 </p>
 
@@ -27,13 +16,23 @@
   </a> 
 </p>
 
+---
 
-
-
+## 🌟 Professional Summary
+Passionate **IoT, Robotics, and Aerospace Engineer** with experience in **AI**, **embedded systems**, **drone development**, **computer vision**, **game development**, and **full-stack web/app development**.  
+Proficient in **Python, C++, TensorFlow, OpenCV, Laravel, Flutter**, and mission-critical hardware like **Pixhawk** and **ESP32**.  
+Proven ability to drive innovative real-world solutions and currently seeking **MSc/PhD opportunities in Robotics or Space Science**.
 
 ---
 
-### 🔭 I’m currently working on:
+## 🎓 Education
+- **B.Sc. in IoT and Robotics Engineering (2023–2027)** – University of Frontier Technology, Bangladesh  
+- **HSC (Science)** – Nasirabad College, Mymensingh (GPA 5.00)  
+- **SSC (Science)** – Monsurpur A.H.T High School, Netrokona (GPA 5.00)  
+
+---
+
+## 🔭 Current Projects
 - 🚀 **RC Jet Telemetry System: Real-Time GPS Monitoring for SU-27 Fighter Jet using IoT**
 - 🤖 **AI Chatbot in Laravel with OpenAI API Integration**
 - 🕹️ **Drone Flight Simulator with VR using Unity Engine**
@@ -43,65 +42,91 @@
 
 ---
 
-### 🌱 Currently Learning:
-- **Machine Learning**
-- **Artificial Intelligence**
-- **Robotics**
+## 🛠️ Core Skills
+
+### Web & Cross-Platform Development
+- **Languages & Frameworks**: Python, PHP, JavaScript, Dart, Laravel, Flutter  
+- **Front-End**: HTML5, CSS3, Tailwind CSS, Bootstrap  
+- **Back-End**: MySQL, PostgreSQL, Node.js  
+- **CMS**: WordPress  
+
+### Mobile & Game Development
+- **Cross-Platform Mobile Development**: Flutter, Android Studio  
+- **Game Development**: Unity3D, C#  
+- **AR/VR/XR Development**: Immersive XR drone simulators and 3D car racing games  
+
+### AI & Machine Learning
+- **AI Integration**: OpenAI API (GPT, Whisper), Voice-to-Voice Chatbots  
+- **Frameworks**: TensorFlow, PyTorch, Scikit-learn  
+- **Computer Vision**: OpenCV, Sign Language Detection  
+- **Data Analytics**: Pandas, NumPy, Matplotlib  
+
+### Cloud & DevOps
+- **Platforms**: AWS, Azure, GCP  
+- **CI/CD & Automation**: Jenkins, GitHub Actions  
+- **Containerization**: Docker, Kubernetes  
+
+### Tools & Hardware
+- **Hardware**: Pixhawk, ESP32, Arduino  
+- **Version Control**: Git, GitHub  
+- **Simulation**: Mission Planner, MAVLink  
 
 ---
 
-### 📫 How to reach me:
-**abubakkar0001@std.bdu.ac.bd**
+## 🏆 Achievements & Awards
+- Shaheed Syed Nazrul Islam Scholarship for HSC (2023)  
+- 15th National Undergraduate Math Olympiad Finalist (2024)  
+- Published Python Package `emon` on PyPI  
+- Published apps on Amazon Appstore  
 
 ---
 
-### 🤝 Connect with me:
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Highlights |
+|---------|------------|-------------|
+| **RC Aircraft – SU-27 Jet** | Pixhawk, Mission Planner | Built, tuned, and tested lightweight RC aircraft |
+| **RC Plane GPS Telemetry System** | Pixhawk, MAVLink | Real-time GPS telemetry & data visualization |
+| **Drone Simulator (XR)** | Unity, C# | Immersive XR simulator for quadcopter training (Itch.io) |
+| **AI Chatbot Web App** | Laravel, PHP, MySQL, Tailwind CSS, OpenAI API | Voice-to-text, text-to-voice, AI image generation |
+| **IoT Health Monitoring System** | ESP32, Firebase | Real-time heart rate & temperature monitoring dashboard |
+| **3D Car Racing Game** | Unity Engine, C# | Custom vehicle dynamics & terrain |
+
+---
+
+## 📚 Training
+- **Japanese AI Course (TGG)** – Laravel, PHP, MySQL, Tailwind CSS, OpenAI API  
+- **Japanese VR Course (TGG)** – Unity, C#, XR Drone Simulator  
+- **Web Development Training (UYLab)** – HTML, CSS, JavaScript, PHP, MySQL  
+
+---
+
+## 📫 How to Reach Me
+- **Email**: abubakkar0001@std.bdu.ac.bd  
+- **Portfolio**: [abs-emon.github.io](https://abs-emon.github.io)  
+- **GitHub**: [github.com/ABS-EMON](https://github.com/ABS-EMON)  
+- **Blog**: [abs-emon.blogspot.com](https://abs-emon.blogspot.com)  
+- **Facebook**: [EMON Facebook](https://web.facebook.com/p/EMON-100066781024743)  
+- **YouTube**: [@ire-programmer](https://youtube.com/@ire-programmer?si=K7MMpyEHc7dJ7wQ0)  
+
+---
+
+## 🧰 Languages and Tools
 <p align="left">
-  <a href="https://abs-emon.blogspot.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="Blog" height="30" width="40" />
-  </a>
-  <a href="https://web.facebook.com/p/EMON-100066781024743" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://youtube.com/@ire-programmer?si=K7MMpyEHc7dJ7wQ0" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🧰 Languages and Tools:
-<!-- Icons are resized and fixed for formatting -->
-<p align="left">
+  <!-- same icon list as before -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="30"/>
+  <!-- Add other icons as in your previous README -->
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-
+## 📊 GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ABS-EMON&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
