@@ -32,6 +32,14 @@ Proven ability to drive innovative real-world solutions and currently seeking **
 
 ---
 
+## 🧑‍🤝‍🧑 Leadership & Team Experience
+- **Project & Workshop Secretary – UFTB Robotics Club (Current)**  
+  Organizing and leading workshops, managing project teams, and coordinating activities for student innovation.  
+- **Web Developer & Designer – UFTB Robotics Club (Previous)**  
+  Designed and maintained the club’s website, ensured secure and optimized performance, and supported event promotions.  
+
+---
+
 ## 🔭 Current Projects
 - 🚀 **RC Jet Telemetry System: Real-Time GPS Monitoring for SU-27 Fighter Jet using IoT**
 - 🤖 **AI Chatbot in Laravel with OpenAI API Integration**
@@ -113,7 +121,6 @@ Proven ability to drive innovative real-world solutions and currently seeking **
 
 ## 🧰 Languages and Tools
 <p align="left">
-  <!-- same icon list as before -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
@@ -121,7 +128,6 @@ Proven ability to drive innovative real-world solutions and currently seeking **
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <!-- Add other icons as in your previous README -->
 </p>
 
 ---
